@@ -16,10 +16,10 @@ const jeffplays2005 = {
   - Have created some small NPM(Node Package Manager) packages to test my modularity skills
     - Some packages that demonstrate my skill:
       [Termfxjs, a template parser](https://github.com/jeffplays2005/termfxjs), [Pg3d, a small API package](https://github.com/jeffplays2005/pg3d)
-  - Have also backend web development skills
+  - Backend web development skills
     - Am current learning some backend courses at FreeCodeCamp:
       [Backend and API development](https://github.com/jeffplays2005/courses/tree/main/backend_and_apis)
-    - Have some unpublished passion projects that are also private repositories due to having them as private non open source code
+    - Some passion projects are unpublished due to them as being closed source
       - Involved basic app credentials, user data was encrypted
       - API callback and requests
   - Database interactions
@@ -37,7 +37,7 @@ const jeffplays2005 = {
 - Began learning Python in 2023, have learned some courses at The University of Auckland:
   - Principles of programming, the skills learned can be seen [here](https://github.com/jeffplays2005/courses/tree/main/Computer%20Science%20101)
   - Introduction to Software Fundamentals, the skills learned can be seen [here](https://github.com/jeffplays2005/courses/tree/main/Computer%20Science%20130)
-  - [pykeyv_sqlite3](https://github.com/jeffplays2005/pykeyv_sqlite3), a database plugin that works with key and value storage
+- [pykeyv_sqlite3](https://github.com/jeffplays2005/pykeyv_sqlite3), a database plugin that works with key and value storage
 </details>
 
 ## Projects
@@ -47,7 +47,9 @@ Termfx([js](https://github.com/jeffplays2005/termfxjs), [go](https://github.com/
 
 [Pg3d](https://github.com/jeffplays2005/pg3d): A small API used to load information about the game, Pixel Gun 3D.
 
-[pykeyv_sqlite3](https://github.com/jeffplays2005/pykeyv_sqlite3): A database plugin that works with key and value storage
+[pykeyv_sqlite3](https://github.com/jeffplays2005/pykeyv_sqlite3): A python database plugin that works with key and value storage, based on sqlite3
+
+[mcbot](https://github.com/jeffplays2005/mcbot): A mineflayer based minecraft bot that allows for custom command addressing.
 
 [Courses and code examples](https://github.com/jeffplays2005/courses):
 - [Backend development](https://github.com/jeffplays2005/courses/tree/main/backend_and_apis)
