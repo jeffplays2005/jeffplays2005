@@ -37,6 +37,7 @@ const jeffplays2005 = {
 - Began learning Python in 2023, have learned some courses at The University of Auckland:
   - Principles of programming, the skills learned can be seen [here](https://github.com/jeffplays2005/courses/tree/main/Computer%20Science%20101)
   - Introduction to Software Fundamentals, the skills learned can be seen [here](https://github.com/jeffplays2005/courses/tree/main/Computer%20Science%20130)
+  - [pykeyv_sqlite3](https://github.com/jeffplays2005/pykeyv_sqlite3), a database plugin that works with key and value storage
 </details>
 
 ## Projects
@@ -45,6 +46,8 @@ const jeffplays2005 = {
 Termfx([js](https://github.com/jeffplays2005/termfxjs), [go](https://github.com/jeffplays2005/termfx)): A parser which support variable and functions as callbacks.
 
 [Pg3d](https://github.com/jeffplays2005/pg3d): A small API used to load information about the game, Pixel Gun 3D.
+
+[pykeyv_sqlite3](https://github.com/jeffplays2005/pykeyv_sqlite3): A database plugin that works with key and value storage
 
 [Courses and code examples](https://github.com/jeffplays2005/courses):
 - [Backend development](https://github.com/jeffplays2005/courses/tree/main/backend_and_apis)
