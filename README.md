@@ -40,18 +40,14 @@ const jeffplays2005 = {
 </details>
 
 ## Projects
-Hackheld: A hackable handheld with a 5 dimensional joystick, inspired by SpaceHuhn.
-[Link to project](https://github.com/jeffplays2005/Hackheld)
+[Hackheld](https://github.com/jeffplays2005/Hackheld): A hackable handheld with a 5 dimensional joystick, inspired by SpaceHuhn.
 
-Termfx(js, go): A parser which support variable and functions as callbacks.
-[Termfxjs](https://github.com/jeffplays2005/termfxjs) [Termfxgo](https://github.com/jeffplays2005/termfx)
+Termfx([js](https://github.com/jeffplays2005/termfxjs), [go](https://github.com/jeffplays2005/termfx)): A parser which support variable and functions as callbacks.
 
-Pg3d(js): A small API used to load information about the game, Pixel Gun 3D.
-[Link to project](https://github.com/jeffplays2005/pg3d)
+[Pg3d](https://github.com/jeffplays2005/pg3d): A small API used to load information about the game, Pixel Gun 3D.
 
-Currently learning(js):
-[Courses](https://github.com/jeffplays2005/courses)
-- [Backend developement](https://github.com/jeffplays2005/courses/tree/main/backend_and_apis)
+[Courses and code examples](https://github.com/jeffplays2005/courses):
+- [Backend development](https://github.com/jeffplays2005/courses/tree/main/backend_and_apis)
 
 ![Languages used](https://github-readme-stats.vercel.app/api/top-langs/?username=jeffplays2005&layout=compact&theme=dark)
 ![Github stats](https://github-readme-stats.vercel.app/api?username=jeffplays2005&show_icons=true&theme=dark&hide_title=true)
