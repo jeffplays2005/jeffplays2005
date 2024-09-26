@@ -2,15 +2,23 @@
 ```js
 const jeffplays2005 = {
   age: 18,
-  code: [ "Javascript", "Go", "Java", "Python" ],
-  tools: [ "iTerm", "Atom", "VSCode", "GitHub" ],
+  languages: [
+    "Node.js", "TypeScript", "C#",
+    "Java", "Python", "Golang",
+    "HTML", "CSS", "JavaScript"
+  ],
+  frameworks: [
+    "React.js", "TSOA", "Express", "Firebase",
+    "ASP.NET", "Flask"
+  ],
+  tools: [ "iTerm", "Zed", "VSCode", "GitHub" ],
   architecture: [ "Windows 10/11", "MacOS", "Linux" ]
 };
 ```
 
 ## Skills
 <details>
-<summary>Javascript</summary>
+<summary>JavaScript</summary>
 
 - Began learning Node.js in 2019, have been programming in Node.js for over 5 years
   - Have created some small NPM(Node Package Manager) packages to test my modularity skills
