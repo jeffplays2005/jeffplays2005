@@ -1,10 +1,11 @@
 ## About me
 ```js
 const jeffplays2005 = {
-  age: 18,
-  code: [ "Javascript", "Go", "Java", "Python" ],
-  tools: [ "iTerm", "Atom", "VSCode", "GitHub" ],
-  architecture: [ "Windows 10/11", "MacOS", "Linux" ]
+  age: 19,
+  languages: [ "Node.JS", "TypeScript", "C#", "GoLang", "Java", "Python" ],
+  frameworks: [ "Express", "React", "Next.js", ".NET", "Firebase", "Flask" ],
+  tools: [ "iTerm", "Zed", "Atom", "VSCode", "GitHub" ],
+  architectures: [ "Windows 10/11", "MacOS", "Linux" ]
 };
 ```
 
@@ -13,7 +14,7 @@ const jeffplays2005 = {
 <summary>Javascript</summary>
 
 - Began learning Node.js in 2019, have been programming in Node.js for over 5 years
-  - Have created some small NPM(Node Package Manager) packages to test my modularity skills
+  - Have created some NPM(Node Package Manager) packages to test my modularity skills
     - Some packages that demonstrate my skill:
       [Termfxjs, a template parser](https://github.com/jeffplays2005/termfxjs), [Pg3d, a small API package](https://github.com/jeffplays2005/pg3d)
   - Backend web development skills
@@ -38,6 +39,7 @@ const jeffplays2005 = {
   - Principles of programming, the skills learned can be seen [here](https://github.com/jeffplays2005/courses/tree/main/Computer%20Science%20101)
   - Introduction to Software Fundamentals, the skills learned can be seen [here](https://github.com/jeffplays2005/courses/tree/main/Computer%20Science%20130)
 - [pykeyv_sqlite3](https://github.com/jeffplays2005/pykeyv_sqlite3), a database plugin that works with key and value storage
+- podcast library webapp, a group project involving a podcast website that's coded with Python Flask, SQLite3, Jinja2, and HTML/CSS
 </details>
 
 ## Projects
@@ -48,6 +50,8 @@ Termfx([js](https://github.com/jeffplays2005/termfxjs), [go](https://github.com/
 [Pg3d](https://github.com/jeffplays2005/pg3d): A small API used to load information about the game, Pixel Gun 3D.
 
 [pykeyv_sqlite3](https://github.com/jeffplays2005/pykeyv_sqlite3): A python database plugin that works with key and value storage, based on sqlite3
+
+[arduino-rc522-nfc-reader](https://github.com/jeffplays2005/arduino-rc522-nfc-reader): Another hardware piece that helps with reading/writing NFC tags.
 
 [mcbot](https://github.com/jeffplays2005/mcbot): A mineflayer based minecraft bot that allows for custom command addressing.
 
