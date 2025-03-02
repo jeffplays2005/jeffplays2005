@@ -13,33 +13,51 @@ const jeffplays2005 = {
 <details>
 <summary>Javascript</summary>
 
-- Began learning Node.js in 2019, have been programming in Node.js for over 5 years
-  - Have created some NPM(Node Package Manager) packages to test my modularity skills
-    - Some packages that demonstrate my skill:
-      [Termfxjs, a template parser](https://github.com/jeffplays2005/termfxjs), [Pg3d, a small API package](https://github.com/jeffplays2005/pg3d)
-  - Backend web development skills
-    - Am current learning some backend courses at FreeCodeCamp:
-      [Backend and API development](https://github.com/jeffplays2005/courses/tree/main/backend_and_apis)
-    - Some passion projects are unpublished due to them as being closed source
-      - Involved basic app credentials, user data was encrypted
-      - API callback and requests
-  - Database interactions
-    - Involves CRUD(create, read, update, delete)
-    - Data validation
-- Overall skills obtained through the courses and projects:
-  - Backend API development
-  - Database management
-  - Human computer interactions
-  - Security control
+Javascript was my first coding language that I began learning in 2019. I first began as a Discord bot developer due to my interest in some economy bots and wanting to clone them to have fun with some friends. This interest branched out towards some light packages and many other private projects! Some public ones on my GitHub are:
+
+[Pg3d, a small API package](https://github.com/jeffplays2005/pg3d)
+
+* This was my first ever package coded published on NPM. I was a great fan of the game and wanted to make an API!
+
+[Termfxjs](https://github.com/jeffplays2005/termfxjs) 
+
+* This is a template parser that converts text patterns into functions that run in an asynchronous manner.
+* Some good uses are automated tasks such as macros!
+
+</details>
+<details>
+<summary>Typescript</summary>
+
+This is one of my favourite languages! 
+
+[UASC Web App](https://github.com/UoaWDCC/uasc-web)
+
+Collaborated with a team of 12 other developers to recode a web application for the University of Auckland Snowsports Club!
+
+* This project used a Firebase, Next.js, TSOA, Express, TypeScript tech stack!
+* Contributed towards the Stripe payment, events, login/register, and SSE systems.
+* Performed DevOp practices for an easier development system.
+* Top backend contributor with over 65 commits.
+
 </details>
 <details>
 <summary>Python</summary>
 
-- Began learning Python in 2023, have learned some courses at The University of Auckland:
+- I began learning Python in 2023!
   - Principles of programming, the skills learned can be seen [here](https://github.com/jeffplays2005/courses/tree/main/Computer%20Science%20101)
   - Introduction to Software Fundamentals, the skills learned can be seen [here](https://github.com/jeffplays2005/courses/tree/main/Computer%20Science%20130)
-- [pykeyv_sqlite3](https://github.com/jeffplays2005/pykeyv_sqlite3), a database plugin that works with key and value storage
-- podcast library webapp, a group project involving a podcast website that's coded with Python Flask, SQLite3, Jinja2, and HTML/CSS
+
+[pykeyv_sqlite3](https://github.com/jeffplays2005/pykeyv_sqlite3) 
+
+* A database plugin that works with key and value storage.
+* Perfect for smaller applications that don't require massive database scaling.
+* Generally used for testing
+
+[podcast library webapp](https://github.com/jeffplays2005/Podcast-Web-App)
+
+* A group project involving a podcast website that's coded with Python Flask, SQLite3, Jinja2, and HTML/CSS.
+* An amazing experience project managing our group!
+
 </details>
 
 ## Projects
