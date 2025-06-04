@@ -1,15 +1,33 @@
 ## About me
+
 ```js
 const jeffplays2005 = {
   age: 19,
-  languages: [ "Node.JS", "TypeScript", "C#", "GoLang", "Java", "Python" ],
-  frameworks: [ "Express", "React", "Next.js", ".NET", "Firebase", "Flask" ],
-  tools: [ "iTerm", "Zed", "Atom", "VSCode", "GitHub" ],
-  architectures: [ "Windows 10/11", "MacOS", "Linux" ]
+  languages: ["Node.JS", "TypeScript", "C#", "GoLang", "Java", "Python"],
+  frameworks: ["Express", "React", "Next.js", ".NET", "Firebase", "Flask"],
+  tools: ["iTerm", "Zed", "Atom", "VSCode", "GitHub"],
+  architectures: ["Windows 10/11", "MacOS", "Linux"],
 };
 ```
 
+## Languages
+
+[![Languages](https://skillicons.dev/icons?i=javascript,typescript,html,css,cs,java,golang,python,md)](https://skillicons.dev)
+
+## Frameworks & Libraries
+
+[![Frameworks](https://skillicons.dev/icons?i=nextjs,nodejs,react,express,flask,tailwind,arduino,discordjs,dotnet,jest,vitest,npm,yarn,pnpm)](https://skillicons.dev)
+
+## Databases
+
+[![Databases](https://skillicons.dev/icons?i=firebase,mongodb,mysql,postgres,sqlite,supabase)](https://skillicons.dev)
+
+## DevOps
+
+[![DevOps](https://skillicons.dev/icons?i=aws,azure,docker,gcp,git,githubactions)](https://skillicons.dev)
+
 ## Skills
+
 <details>
 <summary>Javascript</summary>
 
@@ -27,13 +45,14 @@ const jeffplays2005 = {
     - Involves CRUD(create, read, update, delete)
     - Data validation
 - Overall skills obtained through the courses and projects:
+
   - Backend API development
   - Database management
   - Human computer interactions
   - Security control
-</details>
-<details>
-<summary>Python</summary>
+  </details>
+  <details>
+  <summary>Python</summary>
 
 - Began learning Python in 2023, have learned some courses at The University of Auckland:
   - Principles of programming, the skills learned can be seen [here](https://github.com/jeffplays2005/courses/tree/main/Computer%20Science%20101)
@@ -43,6 +62,7 @@ const jeffplays2005 = {
 </details>
 
 ## Projects
+
 [Hackheld](https://github.com/jeffplays2005/Hackheld): A hackable handheld with a 5 dimensional joystick, inspired by SpaceHuhn.
 
 Termfx([js](https://github.com/jeffplays2005/termfxjs), [go](https://github.com/jeffplays2005/termfx)): A parser which support variable and functions as callbacks.
@@ -56,6 +76,7 @@ Termfx([js](https://github.com/jeffplays2005/termfxjs), [go](https://github.com/
 [mcbot](https://github.com/jeffplays2005/mcbot): A mineflayer based minecraft bot that allows for custom command addressing.
 
 [Courses and code examples](https://github.com/jeffplays2005/courses):
+
 - [Backend development](https://github.com/jeffplays2005/courses/tree/main/backend_and_apis)
 
 ![Languages used](https://github-readme-stats.vercel.app/api/top-langs/?username=jeffplays2005&layout=compact&theme=dark)
