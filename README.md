@@ -1,6 +1,6 @@
 ## About me
 
-I'm a 3rd year Computer Science student studying at the University of Auckland. My internal engine runs purely on interest and determination.
+I'm 19 years old and am a 3rd year Computer Science student studying at the University of Auckland. My internal engine runs purely on interest and determination.
 
 ## Languages
 
