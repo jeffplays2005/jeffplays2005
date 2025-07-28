@@ -1,6 +1,8 @@
 ## About me
 
-I'm 19 years old and am a 3rd year Computer Science student studying at the University of Auckland. My internal engine runs purely on interest and determination.
+BSc Computer Science at University of Auckland.
+
+Hello! I'm 19 years old an am experienced software developer with a strong background in full-stack systems, cloud infrastructure, and DevOps. I develop purely based on interest and determination to create and innovate quality software.
 
 ## Languages
 
